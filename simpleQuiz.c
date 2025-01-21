@@ -60,6 +60,7 @@ int main() {
     } else {
         printf("Better luck next time!\n");
     }
+    printf("this is line is for observing branches");
 
     return 0;
 }
