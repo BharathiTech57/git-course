@@ -19,6 +19,7 @@ if(s=="s" | s=="S")
         console.log("sorry..");
         console.log("you are wrong...");
         console.log("try again:");
+        console.log("...END...");
 
     }}
 }
