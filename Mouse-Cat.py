@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#i solved it in hackerrank...!
 #my hackerrank program code
 # Complete the catAndMouse function below.
 #
